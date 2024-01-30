@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .textbox {
+        @apply w-[25rem] h-10 p-2 border rounded-md ;
+    }
+    .deets {
+        @apply text-gray-300 text-[.8rem];
+    }
+    .details {
+        @apply text-[1.5rem];
+    }
+}
+

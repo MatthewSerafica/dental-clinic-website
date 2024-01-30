@@ -1,0 +1,2680 @@
+{
+  "_AddApointment-2aa6d91a.js": {
+    "file": "assets/AddApointment-2aa6d91a.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_AdminLinks-fd8c5b60.js": {
+    "file": "assets/AdminLinks-fd8c5b60.js",
+    "imports": [
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_ArrowLeft-3b486ccb.js": {
+    "file": "assets/ArrowLeft-3b486ccb.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_DashboardIcon-abe5f48e.js": {
+    "file": "assets/DashboardIcon-abe5f48e.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_EditIcon-d14778c9.js": {
+    "file": "assets/EditIcon-d14778c9.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_Error-fb42616a.js": {
+    "file": "assets/Error-fb42616a.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_InputLabel-39aeec75.js": {
+    "file": "assets/InputLabel-39aeec75.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Pagination-af17f53a.js": {
+    "file": "assets/Pagination-af17f53a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_PatientIcon-56da3996.js": {
+    "file": "assets/PatientIcon-56da3996.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_PrimaryButton-3cb5c0be.js": {
+    "file": "assets/PrimaryButton-3cb5c0be.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_SLULogo-6952a995.js": {
+    "file": "assets/SLULogo-6952a995.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_SluDentalLogo-a4fb04a6.js": {
+    "file": "assets/SluDentalLogo-a4fb04a6.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_Success-01c9158f.js": {
+    "file": "assets/Success-01c9158f.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "_TextInput-f6377395.js": {
+    "file": "assets/TextInput-f6377395.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_UsersIcon-3089db95.js": {
+    "file": "assets/UsersIcon-3089db95.js",
+    "imports": [
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/app.js"
+    ]
+  },
+  "__plugin-vue_export-helper-c27b6911.js": {
+    "file": "assets/_plugin-vue_export-helper-c27b6911.js"
+  },
+  "_auto-5842a5d9.js": {
+    "file": "assets/auto-5842a5d9.js"
+  },
+  "_dayjs.min-9450d934.js": {
+    "file": "assets/dayjs.min-9450d934.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_dental_clinic_pic-80ab77ea.js": {
+    "assets": [
+      "assets/dc_logo-bea30dc6.png",
+      "assets/dental_clinic_pic-10b5b8b2.jpg"
+    ],
+    "file": "assets/dental_clinic_pic-80ab77ea.js"
+  },
+  "_flowbite-vue-62d8acb5.js": {
+    "file": "assets/flowbite-vue-62d8acb5.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_index-89e1533b.js": {
+    "file": "assets/index-89e1533b.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_module.esm-66530135.js": {
+    "file": "assets/module.esm-66530135.js"
+  },
+  "public/images/dc_logo.png": {
+    "file": "assets/dc_logo-bea30dc6.png",
+    "src": "public/images/dc_logo.png"
+  },
+  "public/images/dental_clinic_pic.jpg": {
+    "file": "assets/dental_clinic_pic-10b5b8b2.jpg",
+    "src": "public/images/dental_clinic_pic.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-32f356dc.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/Pages/Admin/Appointment/Cancel.vue": {
+    "file": "assets/Cancel-5919b53e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Appointment/Cancel.vue"
+  },
+  "resources/js/Pages/Admin/Appointment/Create.vue": {
+    "file": "assets/Create-81b40ad2.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Appointment/Create.vue"
+  },
+  "resources/js/Pages/Admin/Appointment/Edit.vue": {
+    "file": "assets/Edit-7c75c6ef.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Appointment/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Appointment/Index.vue": {
+    "file": "assets/Index-49b062b9.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AddApointment-2aa6d91a.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Appointment/Cancel.vue",
+      "resources/js/Pages/Admin/Appointment/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Appointment/Index.vue"
+  },
+  "resources/js/Pages/Admin/Appointment/Show.vue": {
+    "file": "assets/Show-2e3a39a5.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Admin/Appointment/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Appointment/Show.vue"
+  },
+  "resources/js/Pages/Admin/Archive/Index.vue": {
+    "file": "assets/Index-32c23dbc.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Pagination-af17f53a.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_module.esm-66530135.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Archive/Index.vue"
+  },
+  "resources/js/Pages/Admin/Courses/Create.vue": {
+    "file": "assets/Create-f4b11781.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Courses/Create.vue"
+  },
+  "resources/js/Pages/Admin/Courses/Delete.vue": {
+    "file": "assets/Delete-31f9f111.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Courses/Delete.vue"
+  },
+  "resources/js/Pages/Admin/Courses/Edit.vue": {
+    "file": "assets/Edit-ccafef1f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Courses/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Courses/Index.vue": {
+    "file": "assets/Index-b7d504bb.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Courses/Create.vue",
+      "resources/js/Pages/Admin/Courses/Delete.vue",
+      "resources/js/Pages/Admin/Courses/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Courses/Index.vue"
+  },
+  "resources/js/Pages/Admin/Dashboard/Index.vue": {
+    "file": "assets/Index-d0e2f6f1.js",
+    "imports": [
+      "resources/js/Pages/Dentist/Report/Charts/YearChart.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_UsersIcon-3089db95.js",
+      "_DashboardIcon-abe5f48e.js",
+      "resources/js/app.js",
+      "_dayjs.min-9450d934.js",
+      "_index-89e1533b.js",
+      "_auto-5842a5d9.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Dashboard/Index.vue"
+  },
+  "resources/js/Pages/Admin/Departments/Create.vue": {
+    "file": "assets/Create-49694857.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Departments/Create.vue"
+  },
+  "resources/js/Pages/Admin/Departments/Delete.vue": {
+    "file": "assets/Delete-2ae5697a.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Departments/Delete.vue"
+  },
+  "resources/js/Pages/Admin/Departments/Edit.vue": {
+    "file": "assets/Edit-1880eea1.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Departments/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Departments/Index.vue": {
+    "file": "assets/Index-34b81ceb.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Departments/Create.vue",
+      "resources/js/Pages/Admin/Departments/Delete.vue",
+      "resources/js/Pages/Admin/Departments/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Departments/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/Create.vue": {
+    "file": "assets/Create-e9208501.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/Create.vue"
+  },
+  "resources/js/Pages/Admin/Employees/DMFTCount/Index.vue": {
+    "file": "assets/Index-e106bd3b.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/DMFTCount/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/DentalChart/Index.css": {
+    "file": "assets/Index-e42f2c2c.css",
+    "src": "resources/js/Pages/Admin/Employees/DentalChart/Index.css"
+  },
+  "resources/js/Pages/Admin/Employees/DentalChart/Index.vue": {
+    "css": [
+      "assets/Index-e42f2c2c.css"
+    ],
+    "file": "assets/Index-511392b8.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/DentalChart/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/EmployeeRecord/Edit.vue": {
+    "file": "assets/Edit-712e76fc.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/EmployeeRecord/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Employees/EmployeeRecord/Index.vue": {
+    "file": "assets/Index-5f28ac1c.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/EmployeeRecord/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/Index.vue": {
+    "file": "assets/Index-a92d3e19.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AddApointment-2aa6d91a.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Employees/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/MedicalHistory/Index.vue": {
+    "file": "assets/Index-2e341472.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/MedicalHistory/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/OralHealthCondition/Index.vue": {
+    "file": "assets/Index-8219b894.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/OralHealthCondition/Index.vue"
+  },
+  "resources/js/Pages/Admin/Employees/Show.vue": {
+    "file": "assets/Show-70f53cc5.js",
+    "imports": [
+      "resources/js/app.js",
+      "_EditIcon-d14778c9.js",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Admin/Employees/DentalChart/Index.vue",
+      "resources/js/Pages/Admin/Employees/EmployeeRecord/Edit.vue",
+      "resources/js/Pages/Admin/Employees/EmployeeRecord/Index.vue",
+      "resources/js/Pages/Admin/Employees/MedicalHistory/Index.vue",
+      "resources/js/Pages/Admin/Employees/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Admin/Employees/DMFTCount/Index.vue",
+      "resources/js/Pages/Admin/Employees/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Admin/Employees/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "_index-89e1533b.js",
+      "_Pagination-af17f53a.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/Show.vue"
+  },
+  "resources/js/Pages/Admin/Employees/TreatmentRecord/Create.vue": {
+    "file": "assets/Create-e8e9ca47.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/TreatmentRecord/Create.vue"
+  },
+  "resources/js/Pages/Admin/Employees/TreatmentRecord/Edit.vue": {
+    "file": "assets/Edit-f5f5c726.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/TreatmentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Employees/TreatmentRecord/Index.vue": {
+    "file": "assets/Index-3130a8f4.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "_Pagination-af17f53a.js",
+      "_index-89e1533b.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Employees/TreatmentRecord/Index.vue"
+  },
+  "resources/js/Pages/Admin/Report/Charts/DailyBar.vue": {
+    "file": "assets/DailyBar-db803d89.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/Charts/DailyBar.vue"
+  },
+  "resources/js/Pages/Admin/Report/Charts/MonthlyBar.vue": {
+    "file": "assets/MonthlyBar-2b697bd9.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/Charts/MonthlyBar.vue"
+  },
+  "resources/js/Pages/Admin/Report/Charts/OverallDaily.vue": {
+    "file": "assets/OverallDaily-eb92b924.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/Charts/OverallDaily.vue"
+  },
+  "resources/js/Pages/Admin/Report/Charts/OverallMonthly.vue": {
+    "file": "assets/OverallMonthly-497092a8.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/Charts/OverallMonthly.vue"
+  },
+  "resources/js/Pages/Admin/Report/Charts/YearChart.vue": {
+    "file": "assets/YearChart-64b9d034.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/Charts/YearChart.vue"
+  },
+  "resources/js/Pages/Admin/Report/DailyReportPrint.vue": {
+    "file": "assets/DailyReportPrint-6db7b08c.js",
+    "imports": [
+      "_SLULogo-6952a995.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/DailyReportPrint.vue"
+  },
+  "resources/js/Pages/Admin/Report/Index.vue": {
+    "file": "assets/Index-51131c38.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Admin/Report/Charts/DailyBar.vue",
+      "resources/js/Pages/Admin/Report/Charts/MonthlyBar.vue",
+      "resources/js/Pages/Admin/Report/Charts/OverallDaily.vue",
+      "resources/js/Pages/Admin/Report/Charts/OverallMonthly.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_auto-5842a5d9.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/Index.vue"
+  },
+  "resources/js/Pages/Admin/Report/MonthlyReportPrint.vue": {
+    "file": "assets/MonthlyReportPrint-8914cda6.js",
+    "imports": [
+      "resources/js/app.js",
+      "_SLULogo-6952a995.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Report/MonthlyReportPrint.vue"
+  },
+  "resources/js/Pages/Admin/Schools/Create.vue": {
+    "file": "assets/Create-9323d3ad.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Schools/Create.vue"
+  },
+  "resources/js/Pages/Admin/Schools/Delete.vue": {
+    "file": "assets/Delete-e732b98b.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Schools/Delete.vue"
+  },
+  "resources/js/Pages/Admin/Schools/Edit.vue": {
+    "file": "assets/Edit-35478a4f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Schools/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Schools/Index.vue": {
+    "file": "assets/Index-d0652ed3.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Schools/Create.vue",
+      "resources/js/Pages/Admin/Schools/Delete.vue",
+      "resources/js/Pages/Admin/Schools/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Schools/Index.vue"
+  },
+  "resources/js/Pages/Admin/Services/Create.vue": {
+    "file": "assets/Create-e5fbff25.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Services/Create.vue"
+  },
+  "resources/js/Pages/Admin/Services/Delete.vue": {
+    "file": "assets/Delete-323a5ef3.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Services/Delete.vue"
+  },
+  "resources/js/Pages/Admin/Services/Edit.vue": {
+    "file": "assets/Edit-7d448b46.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Services/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Services/Index.vue": {
+    "file": "assets/Index-958a8da2.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Services/Create.vue",
+      "resources/js/Pages/Admin/Services/Delete.vue",
+      "resources/js/Pages/Admin/Services/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Services/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/Create.vue": {
+    "file": "assets/Create-b37ca77e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/Create.vue"
+  },
+  "resources/js/Pages/Admin/Students/DMFTCount/Index.vue": {
+    "file": "assets/Index-5426f41e.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/DMFTCount/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/DentalChart/Index.css": {
+    "file": "assets/Index-967d29ad.css",
+    "src": "resources/js/Pages/Admin/Students/DentalChart/Index.css"
+  },
+  "resources/js/Pages/Admin/Students/DentalChart/Index.vue": {
+    "css": [
+      "assets/Index-967d29ad.css"
+    ],
+    "file": "assets/Index-7f49f6d5.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/DentalChart/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/Index.vue": {
+    "file": "assets/Index-9ae4e3c8.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AddApointment-2aa6d91a.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Admin/Students/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/MedicalHistory/Index.vue": {
+    "file": "assets/Index-6bebb502.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/MedicalHistory/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/OralHealthCondition/Index.vue": {
+    "file": "assets/Index-1f33f5d3.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/OralHealthCondition/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/Show.vue": {
+    "file": "assets/Show-7d3b3aba.js",
+    "imports": [
+      "resources/js/app.js",
+      "_EditIcon-d14778c9.js",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Admin/Students/DentalChart/Index.vue",
+      "resources/js/Pages/Admin/Students/MedicalHistory/Index.vue",
+      "resources/js/Pages/Admin/Students/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Admin/Students/DMFTCount/Index.vue",
+      "resources/js/Pages/Admin/Students/StudentRecord/Edit.vue",
+      "resources/js/Pages/Admin/Students/StudentRecord/Index.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "_index-89e1533b.js",
+      "_Pagination-af17f53a.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/Show.vue"
+  },
+  "resources/js/Pages/Admin/Students/StudentRecord/Edit.vue": {
+    "file": "assets/Edit-f92f81e6.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/StudentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Students/StudentRecord/Index.vue": {
+    "file": "assets/Index-b386d725.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/StudentRecord/Index.vue"
+  },
+  "resources/js/Pages/Admin/Students/TreatmentRecord/Create.vue": {
+    "file": "assets/Create-a8a53461.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/TreatmentRecord/Create.vue"
+  },
+  "resources/js/Pages/Admin/Students/TreatmentRecord/Edit.vue": {
+    "file": "assets/Edit-f8129ea4.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/TreatmentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Students/TreatmentRecord/Index.vue": {
+    "file": "assets/Index-707f8630.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "_Pagination-af17f53a.js",
+      "_index-89e1533b.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Students/TreatmentRecord/Index.vue"
+  },
+  "resources/js/Pages/Admin/Users/Create.vue": {
+    "file": "assets/Create-f023fa7f.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_ArrowLeft-3b486ccb.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_module.esm-66530135.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/Create.vue"
+  },
+  "resources/js/Pages/Admin/Users/CreateAssistant.vue": {
+    "file": "assets/CreateAssistant-b82fc760.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_ArrowLeft-3b486ccb.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/CreateAssistant.vue"
+  },
+  "resources/js/Pages/Admin/Users/Edit.vue": {
+    "file": "assets/Edit-065e424e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ArrowLeft-3b486ccb.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/Edit.vue"
+  },
+  "resources/js/Pages/Admin/Users/Index.vue": {
+    "file": "assets/Index-c6171a00.js",
+    "imports": [
+      "resources/js/app.js",
+      "_EditIcon-d14778c9.js",
+      "_Pagination-af17f53a.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Admin/Users/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Appointment/Cancel.vue": {
+    "file": "assets/Cancel-c72d1346.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Appointment/Cancel.vue"
+  },
+  "resources/js/Pages/Assistant/Appointment/Create.vue": {
+    "file": "assets/Create-e3e9ac21.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Appointment/Create.vue"
+  },
+  "resources/js/Pages/Assistant/Appointment/Edit.vue": {
+    "file": "assets/Edit-c4f17cb0.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Appointment/Edit.vue"
+  },
+  "resources/js/Pages/Assistant/Appointment/Index.vue": {
+    "file": "assets/Index-aea74d90.js",
+    "imports": [
+      "resources/js/Pages/Assistant/Appointment/Cancel.vue",
+      "_AddApointment-2aa6d91a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "_Error-fb42616a.js",
+      "resources/js/Pages/Assistant/Appointment/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Appointment/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Appointment/Show.vue": {
+    "file": "assets/Show-d06862fa.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Assistant/Appointment/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Appointment/Show.vue"
+  },
+  "resources/js/Pages/Assistant/Dashboard/Dashboard.vue": {
+    "file": "assets/Dashboard-798eb061.js",
+    "imports": [
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/Pages/Dentist/Report/Charts/YearChart.vue",
+      "_UsersIcon-3089db95.js",
+      "_DashboardIcon-abe5f48e.js",
+      "resources/js/app.js",
+      "_dayjs.min-9450d934.js",
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue",
+      "_auto-5842a5d9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Dashboard/Dashboard.vue"
+  },
+  "resources/js/Pages/Assistant/Employees/Create.vue": {
+    "file": "assets/Create-d8b4282b.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Employees/Create.vue"
+  },
+  "resources/js/Pages/Assistant/Employees/EmployeeRecord/Edit.vue": {
+    "file": "assets/Edit-2e90489c.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Employees/EmployeeRecord/Edit.vue"
+  },
+  "resources/js/Pages/Assistant/Employees/EmployeeRecord/Index.vue": {
+    "file": "assets/Index-f085a16a.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Employees/EmployeeRecord/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Employees/Index.vue": {
+    "file": "assets/Index-b8815e17.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Assistant/Employees/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Employees/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Employees/MedicalHistory/Index.vue": {
+    "file": "assets/Index-bcb2a428.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Employees/MedicalHistory/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Employees/Show.vue": {
+    "file": "assets/Show-ee415032.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Assistant/Employees/EmployeeRecord/Edit.vue",
+      "resources/js/Pages/Assistant/Employees/EmployeeRecord/Index.vue",
+      "resources/js/Pages/Assistant/Employees/MedicalHistory/Index.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Employees/Show.vue"
+  },
+  "resources/js/Pages/Assistant/Notification/Index.vue": {
+    "file": "assets/Index-eb4283bf.js",
+    "imports": [
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Notification/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Student/Create.vue": {
+    "file": "assets/Create-ee75ea8a.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Student/Create.vue"
+  },
+  "resources/js/Pages/Assistant/Student/Index.vue": {
+    "file": "assets/Index-1200b2ec.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Assistant/Student/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Student/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Student/MedicalHistory/Index.vue": {
+    "file": "assets/Index-b691f78a.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Student/MedicalHistory/Index.vue"
+  },
+  "resources/js/Pages/Assistant/Student/Show.vue": {
+    "file": "assets/Show-b8453f07.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Assistant/Student/MedicalHistory/Index.vue",
+      "resources/js/Pages/Assistant/Student/StudentRecord/Edit.vue",
+      "resources/js/Pages/Assistant/Student/StudentRecord/Index.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Student/Show.vue"
+  },
+  "resources/js/Pages/Assistant/Student/StudentRecord/Edit.vue": {
+    "file": "assets/Edit-df2215e2.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Student/StudentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Assistant/Student/StudentRecord/Index.vue": {
+    "file": "assets/Index-2bd475bf.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Assistant/Student/StudentRecord/Index.vue"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword-65151a4d.js",
+    "imports": [
+      "resources/js/app.js",
+      "_dental_clinic_pic-80ab77ea.js",
+      "_TextInput-f6377395.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue"
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login-ee9eb70e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_dental_clinic_pic-80ab77ea.js",
+      "_TextInput-f6377395.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.vue"
+  },
+  "resources/js/Pages/Auth/RequestSent.vue": {
+    "file": "assets/RequestSent-31cc9908.js",
+    "imports": [
+      "_dental_clinic_pic-80ab77ea.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/RequestSent.vue"
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword-a06daa13.js",
+    "imports": [
+      "resources/js/app.js",
+      "_dental_clinic_pic-80ab77ea.js",
+      "_TextInput-f6377395.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ResetPassword.vue"
+  },
+  "resources/js/Pages/Dentist/Appointment/Cancel.vue": {
+    "file": "assets/Cancel-fecadc17.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Appointment/Cancel.vue"
+  },
+  "resources/js/Pages/Dentist/Appointment/Create.vue": {
+    "file": "assets/Create-50da5011.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Appointment/Create.vue"
+  },
+  "resources/js/Pages/Dentist/Appointment/Edit.vue": {
+    "file": "assets/Edit-7087969b.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Appointment/Edit.vue"
+  },
+  "resources/js/Pages/Dentist/Appointment/Index.vue": {
+    "file": "assets/Index-ea4e5d36.js",
+    "imports": [
+      "_AddApointment-2aa6d91a.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Dentist/Appointment/Cancel.vue",
+      "resources/js/Pages/Dentist/Appointment/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Appointment/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Appointment/Show.vue": {
+    "file": "assets/Show-55ed2ff2.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Dentist/Appointment/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Appointment/Show.vue"
+  },
+  "resources/js/Pages/Dentist/Availability/Create.vue": {
+    "file": "assets/Create-1183a71d.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Availability/Create.vue"
+  },
+  "resources/js/Pages/Dentist/Availability/Delete.vue": {
+    "file": "assets/Delete-3194149d.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Availability/Delete.vue"
+  },
+  "resources/js/Pages/Dentist/Availability/Edit.vue": {
+    "file": "assets/Edit-33d17416.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Availability/Edit.vue"
+  },
+  "resources/js/Pages/Dentist/Availability/Index.vue": {
+    "file": "assets/Index-0ab195a4.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Dentist/Availability/Create.vue",
+      "resources/js/Pages/Dentist/Availability/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Availability/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Dashboard/Dashboard.vue": {
+    "file": "assets/Dashboard-9b164b03.js",
+    "imports": [
+      "resources/js/Pages/Dentist/Report/Charts/YearChart.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_UsersIcon-3089db95.js",
+      "_DashboardIcon-abe5f48e.js",
+      "resources/js/app.js",
+      "_dayjs.min-9450d934.js",
+      "_index-89e1533b.js",
+      "_auto-5842a5d9.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Dashboard/Dashboard.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/Create.vue": {
+    "file": "assets/Create-8e3ccee1.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/Create.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/DMFTCount/Index.vue": {
+    "file": "assets/Index-fba078f1.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/DMFTCount/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/DentalChart/Index.css": {
+    "file": "assets/Index-bc11e3b1.css",
+    "src": "resources/js/Pages/Dentist/Employees/DentalChart/Index.css"
+  },
+  "resources/js/Pages/Dentist/Employees/DentalChart/Index.vue": {
+    "css": [
+      "assets/Index-bc11e3b1.css"
+    ],
+    "file": "assets/Index-c2977622.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/DentalChart/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/DentalChart/PrintChart.css": {
+    "file": "assets/PrintChart-8f19b399.css",
+    "src": "resources/js/Pages/Dentist/Employees/DentalChart/PrintChart.css"
+  },
+  "resources/js/Pages/Dentist/Employees/DentalChart/PrintChart.vue": {
+    "css": [
+      "assets/PrintChart-8f19b399.css"
+    ],
+    "file": "assets/PrintChart-b849ad2f.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/DentalChart/PrintChart.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/EmployeeRecord/Edit.vue": {
+    "file": "assets/Edit-9b154893.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/EmployeeRecord/Edit.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/EmployeeRecord/Index.vue": {
+    "file": "assets/Index-8933e981.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/EmployeeRecord/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/EmployeeRecord/PrintInfo.vue": {
+    "file": "assets/PrintInfo-6806328a.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/EmployeeRecord/PrintInfo.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/Index.vue": {
+    "file": "assets/Index-9464ab87.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Dentist/Employees/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/MedicalHistory/Index.vue": {
+    "file": "assets/Index-8d1d0835.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/MedicalHistory/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/MedicalHistory/PrintMedHistory.vue": {
+    "file": "assets/PrintMedHistory-9e0bdfbe.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/MedicalHistory/PrintMedHistory.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/OralHealthCondition/Index.vue": {
+    "file": "assets/Index-b4dc4c88.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/OralHealthCondition/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/OralHealthCondition/PrintEmpOHC.vue": {
+    "file": "assets/PrintEmpOHC-cd0d7375.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/OralHealthCondition/PrintEmpOHC.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/PrintCertificate.vue": {
+    "file": "assets/PrintCertificate-fc9ba396.js",
+    "imports": [
+      "_SLULogo-6952a995.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/PrintCertificate.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/PrintRecord.vue": {
+    "file": "assets/PrintRecord-122a8811.js",
+    "imports": [
+      "resources/js/Pages/Dentist/Employees/DentalChart/PrintChart.vue",
+      "resources/js/Pages/Dentist/Employees/DMFTCount/Index.vue",
+      "resources/js/Pages/Dentist/Employees/EmployeeRecord/PrintInfo.vue",
+      "resources/js/Pages/Dentist/Employees/MedicalHistory/PrintMedHistory.vue",
+      "resources/js/Pages/Dentist/Employees/OralHealthCondition/PrintEmpOHC.vue",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/PrintRecord.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/Show.vue": {
+    "file": "assets/Show-a469692d.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLinks-fd8c5b60.js",
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Dentist/Employees/DMFTCount/Index.vue",
+      "resources/js/Pages/Dentist/Employees/DentalChart/Index.vue",
+      "resources/js/Pages/Dentist/Employees/EmployeeRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Employees/EmployeeRecord/Index.vue",
+      "resources/js/Pages/Dentist/Employees/MedicalHistory/Index.vue",
+      "resources/js/Pages/Dentist/Employees/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Dentist/Employees/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Dentist/Employees/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Dentist/Employees/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "_index-89e1533b.js",
+      "_Pagination-af17f53a.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/Show.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/TreatmentRecord/Create.vue": {
+    "file": "assets/Create-6c016a4a.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/TreatmentRecord/Create.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/TreatmentRecord/Edit.vue": {
+    "file": "assets/Edit-d955b822.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/TreatmentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Dentist/Employees/TreatmentRecord/Index.vue": {
+    "file": "assets/Index-ddc6f3d4.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "_Pagination-af17f53a.js",
+      "_index-89e1533b.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Employees/TreatmentRecord/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Notification/Index.vue": {
+    "file": "assets/Index-92d3133e.js",
+    "imports": [
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Notification/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Profile/Index.vue": {
+    "file": "assets/Index-8166badb.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Profile/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Report/Charts/DailyBar.vue": {
+    "file": "assets/DailyBar-9464fef5.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/Charts/DailyBar.vue"
+  },
+  "resources/js/Pages/Dentist/Report/Charts/MonthlyBar.vue": {
+    "file": "assets/MonthlyBar-b3fff5c4.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/Charts/MonthlyBar.vue"
+  },
+  "resources/js/Pages/Dentist/Report/Charts/OverallDaily.vue": {
+    "file": "assets/OverallDaily-8a05562b.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/Charts/OverallDaily.vue"
+  },
+  "resources/js/Pages/Dentist/Report/Charts/OverallMonthly.vue": {
+    "file": "assets/OverallMonthly-7ff9a2ae.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/Charts/OverallMonthly.vue"
+  },
+  "resources/js/Pages/Dentist/Report/Charts/YearChart.vue": {
+    "file": "assets/YearChart-388d876b.js",
+    "imports": [
+      "_auto-5842a5d9.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/Charts/YearChart.vue"
+  },
+  "resources/js/Pages/Dentist/Report/DailyReportPrint.vue": {
+    "file": "assets/DailyReportPrint-22c4dfba.js",
+    "imports": [
+      "_SLULogo-6952a995.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/DailyReportPrint.vue"
+  },
+  "resources/js/Pages/Dentist/Report/Index.vue": {
+    "file": "assets/Index-432e4400.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Dentist/Report/Charts/DailyBar.vue",
+      "resources/js/Pages/Dentist/Report/Charts/MonthlyBar.vue",
+      "resources/js/Pages/Dentist/Report/Charts/OverallDaily.vue",
+      "resources/js/Pages/Dentist/Report/Charts/OverallMonthly.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_auto-5842a5d9.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Report/MonthlyReportPrint.vue": {
+    "file": "assets/MonthlyReportPrint-b8ef4634.js",
+    "imports": [
+      "resources/js/app.js",
+      "_SLULogo-6952a995.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Report/MonthlyReportPrint.vue"
+  },
+  "resources/js/Pages/Dentist/Students/Create.vue": {
+    "file": "assets/Create-01b43900.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/Create.vue"
+  },
+  "resources/js/Pages/Dentist/Students/DMFTCount/Index.vue": {
+    "file": "assets/Index-7e722bbf.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/DMFTCount/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Students/DentalChart/Index.css": {
+    "file": "assets/Index-1f30b7fd.css",
+    "src": "resources/js/Pages/Dentist/Students/DentalChart/Index.css"
+  },
+  "resources/js/Pages/Dentist/Students/DentalChart/Index.vue": {
+    "css": [
+      "assets/Index-1f30b7fd.css"
+    ],
+    "file": "assets/Index-b3691a7c.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/DentalChart/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Students/DentalChart/PrintDentalChart.css": {
+    "file": "assets/PrintDentalChart-1ed9631f.css",
+    "src": "resources/js/Pages/Dentist/Students/DentalChart/PrintDentalChart.css"
+  },
+  "resources/js/Pages/Dentist/Students/DentalChart/PrintDentalChart.vue": {
+    "css": [
+      "assets/PrintDentalChart-1ed9631f.css"
+    ],
+    "file": "assets/PrintDentalChart-03a6b328.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/DentalChart/PrintDentalChart.vue"
+  },
+  "resources/js/Pages/Dentist/Students/Index.vue": {
+    "file": "assets/Index-84f0f990.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AddApointment-2aa6d91a.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Dentist/Students/Create.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_index-89e1533b.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Students/MedicalHistory/Index.vue": {
+    "file": "assets/Index-3a7be463.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/MedicalHistory/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Students/MedicalHistory/PrintMedicalHistory.vue": {
+    "file": "assets/PrintMedicalHistory-3ffa8164.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/MedicalHistory/PrintMedicalHistory.vue"
+  },
+  "resources/js/Pages/Dentist/Students/OralHealthCondition/Index.vue": {
+    "file": "assets/Index-0f9836ab.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/OralHealthCondition/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Students/OralHealthCondition/PrintStudOHC.vue": {
+    "file": "assets/PrintStudOHC-0e39e137.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/OralHealthCondition/PrintStudOHC.vue"
+  },
+  "resources/js/Pages/Dentist/Students/PrintCertificate.vue": {
+    "file": "assets/PrintCertificate-3bbc4712.js",
+    "imports": [
+      "_SLULogo-6952a995.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/PrintCertificate.vue"
+  },
+  "resources/js/Pages/Dentist/Students/PrintRecord.vue": {
+    "file": "assets/PrintRecord-c9edb64f.js",
+    "imports": [
+      "resources/js/Pages/Dentist/Students/DMFTCount/Index.vue",
+      "resources/js/Pages/Dentist/Students/DentalChart/PrintDentalChart.vue",
+      "resources/js/Pages/Dentist/Students/MedicalHistory/PrintMedicalHistory.vue",
+      "resources/js/Pages/Dentist/Students/OralHealthCondition/PrintStudOHC.vue",
+      "resources/js/Pages/Dentist/Students/StudentRecord/PrintPersonalInfo.vue",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/PrintRecord.vue"
+  },
+  "resources/js/Pages/Dentist/Students/Show.vue": {
+    "file": "assets/Show-01f17fb5.js",
+    "imports": [
+      "resources/js/app.js",
+      "_EditIcon-d14778c9.js",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Dentist/Students/DentalChart/Index.vue",
+      "resources/js/Pages/Dentist/Students/MedicalHistory/Index.vue",
+      "resources/js/Pages/Dentist/Students/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Dentist/Students/DMFTCount/Index.vue",
+      "resources/js/Pages/Dentist/Students/StudentRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Students/StudentRecord/Index.vue",
+      "resources/js/Pages/Dentist/Students/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Dentist/Students/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Students/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_module.esm-66530135.js",
+      "_flowbite-vue-62d8acb5.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "_index-89e1533b.js",
+      "_Pagination-af17f53a.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/Show.vue"
+  },
+  "resources/js/Pages/Dentist/Students/StudentRecord/Edit.vue": {
+    "file": "assets/Edit-7243e896.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/StudentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Dentist/Students/StudentRecord/Index.vue": {
+    "file": "assets/Index-9f96bfb1.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/StudentRecord/Index.vue"
+  },
+  "resources/js/Pages/Dentist/Students/StudentRecord/PrintPersonalInfo.vue": {
+    "file": "assets/PrintPersonalInfo-ac767335.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/StudentRecord/PrintPersonalInfo.vue"
+  },
+  "resources/js/Pages/Dentist/Students/TreatmentRecord/Create.vue": {
+    "file": "assets/Create-1e33ba7c.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/TreatmentRecord/Create.vue"
+  },
+  "resources/js/Pages/Dentist/Students/TreatmentRecord/Edit.vue": {
+    "file": "assets/Edit-562a7503.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/TreatmentRecord/Edit.vue"
+  },
+  "resources/js/Pages/Dentist/Students/TreatmentRecord/Index.vue": {
+    "file": "assets/Index-bd0be443.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "_Pagination-af17f53a.js",
+      "_index-89e1533b.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dentist/Students/TreatmentRecord/Index.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue": {
+    "file": "assets/AssistantLinks-c53c5408.js",
+    "imports": [
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue": {
+    "file": "assets/DentistLinks-aebae790.js",
+    "imports": [
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/Header.vue": {
+    "file": "assets/Header-33526c7b.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/Header.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue": {
+    "file": "assets/PatientLinks-2a5a06a3.js",
+    "imports": [
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue": {
+    "file": "assets/SideBar-ddd0ab5f.js",
+    "imports": [
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue": {
+    "file": "assets/SideBarLinks-b569a21a.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue"
+  },
+  "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue": {
+    "file": "assets/SideBarMobileView-d1951852.js",
+    "imports": [
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+  },
+  "resources/js/Pages/Layouts/MainLayout.vue": {
+    "file": "assets/MainLayout-ff052132.js",
+    "imports": [
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue",
+      "resources/js/app.js",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Layouts/MainLayout.vue"
+  },
+  "resources/js/Pages/Patient/Appointment/Cancel.vue": {
+    "file": "assets/Cancel-4ee5865e.js",
+    "imports": [
+      "_Error-fb42616a.js",
+      "_flowbite-vue-62d8acb5.js",
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Appointment/Cancel.vue"
+  },
+  "resources/js/Pages/Patient/Appointment/Create.vue": {
+    "file": "assets/Create-45efac2e.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Appointment/Create.vue"
+  },
+  "resources/js/Pages/Patient/Appointment/Edit.vue": {
+    "file": "assets/Edit-d1fa9224.js",
+    "imports": [
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Appointment/Edit.vue"
+  },
+  "resources/js/Pages/Patient/Appointment/Index.vue": {
+    "file": "assets/Index-42f466fa.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_Error-fb42616a.js",
+      "_Pagination-af17f53a.js",
+      "_Success-01c9158f.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/Pages/Patient/Appointment/Cancel.vue",
+      "resources/js/Pages/Patient/Appointment/Create.vue",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Appointment/Index.vue"
+  },
+  "resources/js/Pages/Patient/Appointment/Show.vue": {
+    "file": "assets/Show-af6ed1e1.js",
+    "imports": [
+      "_EditIcon-d14778c9.js",
+      "resources/js/Pages/Patient/Appointment/Edit.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "_flowbite-vue-62d8acb5.js",
+      "_index-89e1533b.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Appointment/Show.vue"
+  },
+  "resources/js/Pages/Patient/Edit.vue": {
+    "file": "assets/Edit-e5c6baf7.js",
+    "imports": [
+      "resources/js/app.js",
+      "_InputLabel-39aeec75.js",
+      "_TextInput-f6377395.js",
+      "_ArrowLeft-3b486ccb.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Edit.vue"
+  },
+  "resources/js/Pages/Patient/Index.vue": {
+    "file": "assets/Index-b39305ca.js",
+    "imports": [
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "_dayjs.min-9450d934.js",
+      "resources/js/app.js",
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Index.vue"
+  },
+  "resources/js/Pages/Patient/Notification/Index.vue": {
+    "file": "assets/Index-c01dcdbe.js",
+    "imports": [
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Notification/Index.vue"
+  },
+  "resources/js/Pages/Patient/PatientRecord/Edit.vue": {
+    "file": "assets/Edit-c5d53a1b.js",
+    "imports": [
+      "resources/js/app.js",
+      "_PrimaryButton-3cb5c0be.js",
+      "_InputLabel-39aeec75.js",
+      "__plugin-vue_export-helper-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/PatientRecord/Edit.vue"
+  },
+  "resources/js/Pages/Patient/PatientRecord/Index.vue": {
+    "file": "assets/Index-d5502f6d.js",
+    "imports": [
+      "resources/js/app.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "_PrimaryButton-3cb5c0be.js",
+      "_ArrowLeft-3b486ccb.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/PatientRecord/Index.vue"
+  },
+  "resources/js/Pages/Patient/Profile/PatientRecord.vue": {
+    "file": "assets/PatientRecord-3c6c411f.js",
+    "imports": [
+      "_index-89e1533b.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Profile/PatientRecord.vue"
+  },
+  "resources/js/Pages/Patient/Profile/UserAccount.vue": {
+    "file": "assets/UserAccount-9a575388.js",
+    "imports": [
+      "resources/js/app.js",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "_SluDentalLogo-a4fb04a6.js",
+      "__plugin-vue_export-helper-c27b6911.js",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "_DashboardIcon-abe5f48e.js",
+      "_UsersIcon-3089db95.js",
+      "_PatientIcon-56da3996.js",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Patient/Profile/UserAccount.vue"
+  },
+  "resources/js/Pages/Users/Index.vue": {
+    "file": "assets/Index-f11da3fb.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Users/Index.vue"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-735ff4d0.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-735ff4d0.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Admin/Appointment/Cancel.vue",
+      "resources/js/Pages/Admin/Appointment/Create.vue",
+      "resources/js/Pages/Admin/Appointment/Edit.vue",
+      "resources/js/Pages/Admin/Appointment/Index.vue",
+      "resources/js/Pages/Admin/Appointment/Show.vue",
+      "resources/js/Pages/Admin/Archive/Index.vue",
+      "resources/js/Pages/Admin/Courses/Create.vue",
+      "resources/js/Pages/Admin/Courses/Delete.vue",
+      "resources/js/Pages/Admin/Courses/Edit.vue",
+      "resources/js/Pages/Admin/Courses/Index.vue",
+      "resources/js/Pages/Admin/Dashboard/Index.vue",
+      "resources/js/Pages/Admin/Departments/Create.vue",
+      "resources/js/Pages/Admin/Departments/Delete.vue",
+      "resources/js/Pages/Admin/Departments/Edit.vue",
+      "resources/js/Pages/Admin/Departments/Index.vue",
+      "resources/js/Pages/Admin/Employees/Create.vue",
+      "resources/js/Pages/Admin/Employees/DMFTCount/Index.vue",
+      "resources/js/Pages/Admin/Employees/DentalChart/Index.vue",
+      "resources/js/Pages/Admin/Employees/EmployeeRecord/Edit.vue",
+      "resources/js/Pages/Admin/Employees/EmployeeRecord/Index.vue",
+      "resources/js/Pages/Admin/Employees/Index.vue",
+      "resources/js/Pages/Admin/Employees/MedicalHistory/Index.vue",
+      "resources/js/Pages/Admin/Employees/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Admin/Employees/Show.vue",
+      "resources/js/Pages/Admin/Employees/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Admin/Employees/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Admin/Employees/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Admin/Report/Charts/DailyBar.vue",
+      "resources/js/Pages/Admin/Report/Charts/MonthlyBar.vue",
+      "resources/js/Pages/Admin/Report/Charts/OverallDaily.vue",
+      "resources/js/Pages/Admin/Report/Charts/OverallMonthly.vue",
+      "resources/js/Pages/Admin/Report/Charts/YearChart.vue",
+      "resources/js/Pages/Admin/Report/DailyReportPrint.vue",
+      "resources/js/Pages/Admin/Report/Index.vue",
+      "resources/js/Pages/Admin/Report/MonthlyReportPrint.vue",
+      "resources/js/Pages/Admin/Schools/Create.vue",
+      "resources/js/Pages/Admin/Schools/Delete.vue",
+      "resources/js/Pages/Admin/Schools/Edit.vue",
+      "resources/js/Pages/Admin/Schools/Index.vue",
+      "resources/js/Pages/Admin/Services/Create.vue",
+      "resources/js/Pages/Admin/Services/Delete.vue",
+      "resources/js/Pages/Admin/Services/Edit.vue",
+      "resources/js/Pages/Admin/Services/Index.vue",
+      "resources/js/Pages/Admin/Students/Create.vue",
+      "resources/js/Pages/Admin/Students/DMFTCount/Index.vue",
+      "resources/js/Pages/Admin/Students/DentalChart/Index.vue",
+      "resources/js/Pages/Admin/Students/Index.vue",
+      "resources/js/Pages/Admin/Students/MedicalHistory/Index.vue",
+      "resources/js/Pages/Admin/Students/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Admin/Students/Show.vue",
+      "resources/js/Pages/Admin/Students/StudentRecord/Edit.vue",
+      "resources/js/Pages/Admin/Students/StudentRecord/Index.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Admin/Students/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Admin/Users/Create.vue",
+      "resources/js/Pages/Admin/Users/CreateAssistant.vue",
+      "resources/js/Pages/Admin/Users/Edit.vue",
+      "resources/js/Pages/Admin/Users/Index.vue",
+      "resources/js/Pages/Assistant/Appointment/Cancel.vue",
+      "resources/js/Pages/Assistant/Appointment/Create.vue",
+      "resources/js/Pages/Assistant/Appointment/Edit.vue",
+      "resources/js/Pages/Assistant/Appointment/Index.vue",
+      "resources/js/Pages/Assistant/Appointment/Show.vue",
+      "resources/js/Pages/Assistant/Dashboard/Dashboard.vue",
+      "resources/js/Pages/Assistant/Employees/Create.vue",
+      "resources/js/Pages/Assistant/Employees/EmployeeRecord/Edit.vue",
+      "resources/js/Pages/Assistant/Employees/EmployeeRecord/Index.vue",
+      "resources/js/Pages/Assistant/Employees/Index.vue",
+      "resources/js/Pages/Assistant/Employees/MedicalHistory/Index.vue",
+      "resources/js/Pages/Assistant/Employees/Show.vue",
+      "resources/js/Pages/Assistant/Notification/Index.vue",
+      "resources/js/Pages/Assistant/Student/Create.vue",
+      "resources/js/Pages/Assistant/Student/Index.vue",
+      "resources/js/Pages/Assistant/Student/MedicalHistory/Index.vue",
+      "resources/js/Pages/Assistant/Student/Show.vue",
+      "resources/js/Pages/Assistant/Student/StudentRecord/Edit.vue",
+      "resources/js/Pages/Assistant/Student/StudentRecord/Index.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/RequestSent.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Dentist/Appointment/Cancel.vue",
+      "resources/js/Pages/Dentist/Appointment/Create.vue",
+      "resources/js/Pages/Dentist/Appointment/Edit.vue",
+      "resources/js/Pages/Dentist/Appointment/Index.vue",
+      "resources/js/Pages/Dentist/Appointment/Show.vue",
+      "resources/js/Pages/Dentist/Availability/Create.vue",
+      "resources/js/Pages/Dentist/Availability/Delete.vue",
+      "resources/js/Pages/Dentist/Availability/Edit.vue",
+      "resources/js/Pages/Dentist/Availability/Index.vue",
+      "resources/js/Pages/Dentist/Dashboard/Dashboard.vue",
+      "resources/js/Pages/Dentist/Employees/Create.vue",
+      "resources/js/Pages/Dentist/Employees/DMFTCount/Index.vue",
+      "resources/js/Pages/Dentist/Employees/DentalChart/Index.vue",
+      "resources/js/Pages/Dentist/Employees/DentalChart/PrintChart.vue",
+      "resources/js/Pages/Dentist/Employees/EmployeeRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Employees/EmployeeRecord/Index.vue",
+      "resources/js/Pages/Dentist/Employees/EmployeeRecord/PrintInfo.vue",
+      "resources/js/Pages/Dentist/Employees/Index.vue",
+      "resources/js/Pages/Dentist/Employees/MedicalHistory/Index.vue",
+      "resources/js/Pages/Dentist/Employees/MedicalHistory/PrintMedHistory.vue",
+      "resources/js/Pages/Dentist/Employees/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Dentist/Employees/OralHealthCondition/PrintEmpOHC.vue",
+      "resources/js/Pages/Dentist/Employees/PrintCertificate.vue",
+      "resources/js/Pages/Dentist/Employees/PrintRecord.vue",
+      "resources/js/Pages/Dentist/Employees/Show.vue",
+      "resources/js/Pages/Dentist/Employees/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Dentist/Employees/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Employees/TreatmentRecord/Index.vue",
+      "resources/js/Pages/Dentist/Notification/Index.vue",
+      "resources/js/Pages/Dentist/Profile/Index.vue",
+      "resources/js/Pages/Dentist/Report/Charts/DailyBar.vue",
+      "resources/js/Pages/Dentist/Report/Charts/MonthlyBar.vue",
+      "resources/js/Pages/Dentist/Report/Charts/OverallDaily.vue",
+      "resources/js/Pages/Dentist/Report/Charts/OverallMonthly.vue",
+      "resources/js/Pages/Dentist/Report/Charts/YearChart.vue",
+      "resources/js/Pages/Dentist/Report/DailyReportPrint.vue",
+      "resources/js/Pages/Dentist/Report/Index.vue",
+      "resources/js/Pages/Dentist/Report/MonthlyReportPrint.vue",
+      "resources/js/Pages/Dentist/Students/Create.vue",
+      "resources/js/Pages/Dentist/Students/DMFTCount/Index.vue",
+      "resources/js/Pages/Dentist/Students/DentalChart/Index.vue",
+      "resources/js/Pages/Dentist/Students/DentalChart/PrintDentalChart.vue",
+      "resources/js/Pages/Dentist/Students/Index.vue",
+      "resources/js/Pages/Dentist/Students/MedicalHistory/Index.vue",
+      "resources/js/Pages/Dentist/Students/MedicalHistory/PrintMedicalHistory.vue",
+      "resources/js/Pages/Dentist/Students/OralHealthCondition/Index.vue",
+      "resources/js/Pages/Dentist/Students/OralHealthCondition/PrintStudOHC.vue",
+      "resources/js/Pages/Dentist/Students/PrintCertificate.vue",
+      "resources/js/Pages/Dentist/Students/PrintRecord.vue",
+      "resources/js/Pages/Dentist/Students/Show.vue",
+      "resources/js/Pages/Dentist/Students/StudentRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Students/StudentRecord/Index.vue",
+      "resources/js/Pages/Dentist/Students/StudentRecord/PrintPersonalInfo.vue",
+      "resources/js/Pages/Dentist/Students/TreatmentRecord/Create.vue",
+      "resources/js/Pages/Dentist/Students/TreatmentRecord/Edit.vue",
+      "resources/js/Pages/Dentist/Students/TreatmentRecord/Index.vue",
+      "_AdminLinks-fd8c5b60.js",
+      "resources/js/Pages/Layouts/LayoutComponent/AssistantLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/DentistLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/Header.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/PatientLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBar.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarLinks.vue",
+      "resources/js/Pages/Layouts/LayoutComponent/SideBarMobileView.vue",
+      "resources/js/Pages/Layouts/MainLayout.vue",
+      "resources/js/Pages/Patient/Appointment/Cancel.vue",
+      "resources/js/Pages/Patient/Appointment/Create.vue",
+      "resources/js/Pages/Patient/Appointment/Edit.vue",
+      "resources/js/Pages/Patient/Appointment/Index.vue",
+      "resources/js/Pages/Patient/Appointment/Show.vue",
+      "resources/js/Pages/Patient/Edit.vue",
+      "resources/js/Pages/Patient/Index.vue",
+      "resources/js/Pages/Patient/Notification/Index.vue",
+      "resources/js/Pages/Patient/PatientRecord/Edit.vue",
+      "resources/js/Pages/Patient/PatientRecord/Index.vue",
+      "resources/js/Pages/Patient/Profile/PatientRecord.vue",
+      "resources/js/Pages/Patient/Profile/UserAccount.vue",
+      "resources/js/Pages/Users/Index.vue"
+    ],
+    "file": "assets/app-cdbf4484.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

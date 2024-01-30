@@ -1,0 +1,54 @@
+### Laravel ###
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+lerna-debug.log
+.pnpm-debug.log
+
+#pid
+.pid
+.seed
+.pid.lock
+
+# Dependecy directories
+jspm_packages/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional npm cache directory
+.npm
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+storage/*.key
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
